@@ -6,3 +6,4 @@ hello git
 hello git master test bbbb
 hello git hot-fix test aaaa
 哈哈哈
+hiehiehie clone
